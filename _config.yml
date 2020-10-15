@@ -1,12 +1,12 @@
 # Site Info
-title:              "DNN"
-description:        "Deep Learning Studies"
+title:              "Develop"
+description:        "Develop history"
 author_name:        "Yu Soyoung" # change this to your name
 logo_url:           https://raw.githubusercontent.com/yu-so-young/DNN/master/assets/logo.png # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://yu-so-young.github.io # main url
-baseurl:            /DNN
+baseurl:            /develop
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
